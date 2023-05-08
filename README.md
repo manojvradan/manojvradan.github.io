@@ -1,14 +1,14 @@
 <div align="center">
 
-<h1>Personal Portfolio Website - For RAGESH </h1>
+<h1>Personal Portfolio Website - For Manoj </h1>
 
 <h2>
-  <a href="https://ezhillragesh.github.io/">ezhillragesh.github.io</a>
+  <a href="https://manojvradan.github.io/">ezhillragesh.github.io</a>
 </h2>
 
 <div align="center">
   <a href="https://ezhillragesh.github.io/">
-    <img alt="Mockup" src="https://github.com/rageshx/rageshx.github.io/blob/main/preview%20website.jpg" />
+    <img alt="Mockup" src="https://github.com/manojvradan/manojvradan.github.io/blob/main/preview%20website.jpg?raw=true" />
   </a>
 </div>
 
